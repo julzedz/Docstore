@@ -1,11 +1,5 @@
 # Git & GitHub & GitHub flow
 
-## Learning objectives
-- Understand the concept of version control.
-- Follow GitHub flow.
-- Create branches that each have a different base branch.
-- Open PRs in GitHub.
-
 
 ## What is a version control system? How is it related to Git and GitHub?
 

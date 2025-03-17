@@ -1,3 +1,3 @@
-# Document_Store
+# Docstore
 
 My repository for storing informative documents.
